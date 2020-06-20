@@ -2,9 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09d15be6-4d34-4a90-99aa-227cfcb4f6e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/prices_app/hello_page/static/img/svg/Anal.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prices_app/hello_page/static/img/svg/Close.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prices_app/hello_page/static/img/svg/Logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prices_app/hello_page/static/img/svg/News.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prices_app/hello_page/static/img/svg/Price.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prices_app/hello_page/static/img/svg/Profile.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prices_app/hello_page/static/img/svg/Table.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prices_app/hello_page/static/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prices_app/hello_page/templates/hello_page/hello.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prices_app/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prices_app/static/img/svg/Anal.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prices_app/static/img/svg/Close.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prices_app/static/img/svg/Logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prices_app/static/img/svg/News.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prices_app/static/img/svg/Price.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prices_app/static/img/svg/Profile.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prices_app/static/img/svg/Table.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prices_app/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prices_app/hello_page/templates/prices_app/templates/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/prices_app/hello_page/templates/login/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/prices_app/hello_page/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/prices_app/hello_page/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prices_app/price_app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/prices_app/price_app/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prices_app/price_app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/prices_app/price_app/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +34,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -29,8 +49,24 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/prices_app/hello_page/static" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/prices_app/hello_page/static" />
+      <recent name="$PROJECT_DIR$/prices_app/static" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/prices_app/static/css" />
+      <recent name="$PROJECT_DIR$/prices_app/static" />
+      <recent name="$PROJECT_DIR$/prices_app/hello_page/static" />
+      <recent name="$PROJECT_DIR$/prices_app" />
+      <recent name="$PROJECT_DIR$/prices_app/hello_page/templates/prices_app" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -50,17 +86,31 @@
       <option name="project" value="LOCAL" />
       <updated>1591728090902</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;Connect DB&quot;">
+      <created>1592636272790</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592636272790</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;Connect DB&quot;" />
     <option name="LAST_COMMIT_MESSAGE" value="&quot;Connect DB&quot;" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="499" y="101" width="912" height="904" key="CommitChangelistDialog2" timestamp="1591728090565">
+    <state x="652" y="355" width="605" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592636146021">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="499" y="101" width="912" height="904" key="CommitChangelistDialog2/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1591728090565" />
+    <state x="652" y="355" width="605" height="396" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1592636146020" />
+    <state x="499" y="101" width="912" height="904" key="CommitChangelistDialog2" timestamp="1592636272499">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="499" y="101" width="912" height="904" key="CommitChangelistDialog2/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1592636272499" />
   </component>
 </project>
