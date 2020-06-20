@@ -1,0 +1,58 @@
+ {% load static %}
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>
+        {% block title %}
+                Price App
+            {% endblock %}
+    </title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <link rel="stylesheet" href="{% static 'css/style.css'%}">
+</head>
+<body>
+    <div class="row container-fluid">
+        <!--ASIDE-->
+        <aside class="col-xl-1 aside">
+            <div class="row aside__logo">
+                <div class="col aside__logo__img">
+                    <img src="{% static '/img/svg/Logo.svg' %}" alt="logo" />
+                </div>
+             </div>
+            <div class="row aside__menu">
+                <ul class="col aside__menu__ul">
+                    <li class="aside__menu__profile">Profile</li>
+                    <li class="aside__menu__analytics">Analytics</li>
+                    <li class="aside__menu__table">Table</li>
+                    <li class="aside__menu__news">News</li>
+                    <li class="aside__menu__price">Price's</li>
+                </ul>
+
+            </div>
+        </aside>
+
+        <!--MAIN-->
+        <main class="col-xl-11 main">
+            <div class="row main__header">
+                <div class="col-xl-12 main__header__logout">
+                    <div class="main__header__logout__btn">
+                         <form action="/logout">
+                            <button type="submit"  class="btn btn-danger">Danger</button>
+                         </form>
+                    </div>
+                </div>
+            </div>
+            <div class="row main__title">
+                <div class="col-xl-12 main__title__col">
+                    <h2>Best analytics for your company</h2>
+                </div>
+            </div>
+            {% block content %}
+                No content now
+            {% endblock %}
+        </main>
+    </div>
+</body>
+</html>
+
+</body>
+</html>

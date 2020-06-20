@@ -1,0 +1,60 @@
+.row {
+  margin: 0;
+}
+
+.col {
+  padding: 0;
+}
+
+.aside {
+  text-align: center;
+}
+.aside .aside__logo {
+  border-bottom: 3px solid #F2F2F2;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+.aside .aside__menu {
+  color: grey;
+}
+.aside .aside__menu ul {
+  list-style: none;
+}
+.aside .aside__menu li {
+  padding-left: 25px;
+  padding-bottom: 20px;
+}
+.aside .aside__menu .aside__menu__profile {
+  background: url(../img/svg/Profile.svg) no-repeat 0px 0px;
+  padding-left: 25px;
+}
+.aside .aside__menu .aside__menu__analytics {
+  background: url(../img/svg/Anal.svg) no-repeat 0px 0px;
+  padding-left: 25px;
+}
+.aside .aside__menu .aside__menu__table {
+  background: url(../img/svg/Table.svg) no-repeat 0px 0px;
+  padding-left: 25px;
+}
+.aside .aside__menu .aside__menu__news {
+  background: url(../img/svg/News.svg) no-repeat 0px 0px;
+  padding-left: 25px;
+}
+.aside .aside__menu .aside__menu__price {
+  background: url(../img/svg/Price.svg) no-repeat 0px 0px;
+  padding-left: 25px;
+}
+
+.main {
+  background-color: #F2F2F2;
+}
+
+.main__header {
+  border-bottom: 1px solid black;
+  padding: 10px;
+}
+.main__header .main__header__logout {
+  text-align: end;
+  align-items: center;
+}
+
