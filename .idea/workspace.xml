@@ -2,15 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09d15be6-4d34-4a90-99aa-227cfcb4f6e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/price_app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prices_app/hello_page/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/prices_app/hello_page/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prices_app/price_app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/prices_app/price_app/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/prices_app" />
@@ -25,7 +31,6 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -38,6 +43,24 @@
       <option name="presentableId" value="Default" />
       <updated>1591726005175</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;Connect DB&quot;">
+      <created>1591728090902</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591728090902</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="&quot;Connect DB&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;Connect DB&quot;" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="499" y="101" width="912" height="904" key="CommitChangelistDialog2" timestamp="1591728090565">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="499" y="101" width="912" height="904" key="CommitChangelistDialog2/1920.0.1920.1080/0.27.1920.1053@0.27.1920.1053" timestamp="1591728090565" />
   </component>
 </project>
